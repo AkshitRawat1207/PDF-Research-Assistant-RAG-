@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the refund policy?",
+    "relevant": ["handbook.pdf::p12"]
+  },
+  {
+    "question": "How many vacation days do employees get?",
+    "relevant": ["handbook.pdf::p4", "handbook.pdf::p5"]
+  },
+  {
+    "question": "What is the notice period for resignation?",
+    "relevant": ["handbook.pdf::p18"]
+  }
+]

@@ -1,0 +1,10 @@
+streamlit==1.32.0
+langchain==0.1.12
+langchain-google-genai==0.0.11
+langchain-community==0.0.29
+google-generativeai==0.4.1
+faiss-cpu==1.7.4
+pypdf==4.0.1
+pymupdf==1.25.5
+python-dotenv==1.0.1
+tiktoken==0.6.0
